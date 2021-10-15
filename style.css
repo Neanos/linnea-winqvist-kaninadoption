@@ -1,0 +1,21 @@
+header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:wheat;
+}
+
+nav{
+    display: flex;
+    gap: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    color:midnightblue
+}
+
+a:hover{
+    color: skyblue;
+}
