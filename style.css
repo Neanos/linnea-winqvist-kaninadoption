@@ -1,9 +1,14 @@
+body{
+    background-color: darkslategrey;
+}
+
+
 header{
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color:wheat;
+    background-color:darkseagreen;
 }
 
 nav{
@@ -13,7 +18,7 @@ nav{
 
 nav a{
     text-decoration: none;
-    color:midnightblue
+    color:darkslategrey;
 }
 
 a:hover{
