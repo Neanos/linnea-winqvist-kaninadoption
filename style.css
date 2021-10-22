@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+
 body{
-    background-color: darkslategrey;
+    background-color: honeydew;
 }
 
 
@@ -14,13 +16,21 @@ header{
 nav{
     display: flex;
     gap: 30px;
+    font-family: 'Scheherazade New', serif;
+    font-size: larger;
 }
 
 nav a{
     text-decoration: none;
-    color:darkslategrey;
+    color:honeydew;
 }
 
 a:hover{
-    color: skyblue;
+    color:khaki;
+}
+
+p{
+    font-family: 'Scheherazade New', serif;
+    font-size: larger;
+    color:black;
 }
