@@ -30,6 +30,8 @@ a:hover{
 }
 
 p{
+    display: flex;
+    justify-content: center;
     font-family: 'Scheherazade New', serif;
     font-size: larger;
     color:black;
