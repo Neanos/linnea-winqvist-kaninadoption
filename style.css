@@ -32,7 +32,14 @@ a:hover{
 p{
     display: flex;
     justify-content: center;
+    margin: 30px;
     font-family: 'Scheherazade New', serif;
     font-size: larger;
     color:black;
+}
+
+.BunnyP{
+    font-family: 'Scheherazade New', serif;
+    padding: 30px;
+    font-size: larger;
 }
