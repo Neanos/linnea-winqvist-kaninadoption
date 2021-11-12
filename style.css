@@ -43,3 +43,16 @@ p{
     padding: 30px;
     font-size: larger;
 }
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Scheherazade New', serif;
+}
+
+h2{
+    display: flex;
+    
+    font-family: 'Scheherazade New', serif;
+    margin: 30px;
+}
