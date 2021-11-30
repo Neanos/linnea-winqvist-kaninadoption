@@ -52,7 +52,12 @@ h1{
 
 h2{
     display: flex;
-    
+    font-family: 'Scheherazade New', serif;
+    margin: 30px;
+}
+
+h3{
+    display: flex;
     font-family: 'Scheherazade New', serif;
     margin: 30px;
 }
@@ -63,8 +68,40 @@ li{
 }
 
 button{
+    background-color:darkseagreen;
+    border-color: darkseagreen;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Scheherazade New', serif;
+    font-size: larger;
+    color:honeydew
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.bunnys{
+    display: flex;
+    flex-direction: column;justify-content: space-between;
+    
+    padding: 30px;
+}
+
+.contact{
+    display: flex;
+    justify-content: start;
+    margin: 30px;
+}
+
+.two-col-container {
+    display: flex;
+}
+
+.picture{
     display: flex;
     align-items: center;
-    font-family: 'Scheherazade New', serif;
-
 }
